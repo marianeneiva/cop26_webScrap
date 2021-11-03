@@ -5,6 +5,8 @@ It aggregates the countries that have signed the UN Framework Convention of Clim
 Regarding the event's size, this project aims to use web scrapping to get information around the conference and plot as a word cloud.
 The source of our information is G1 portal, an important Brazilian news website.
 
+Find the step by step here: https://maribneiva.medium.com/colecting-information-on-cop26-from-brazilian-website-1d9a3b2c3660
+
 The result:
 
 [![Result](https://github.com/marianeneiva/cop26_webScrap/blob/main/a_new_hope.png)](https://github.com/marianeneiva/cop26_webScrap/blob/main/a_new_hope.png)
